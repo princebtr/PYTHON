@@ -1,0 +1,5 @@
+a = input("Enter First Number\n")
+b = input("Enter second Number\n")
+a = int(a)
+b = int(b)
+print(a>b)

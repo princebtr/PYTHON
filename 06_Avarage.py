@@ -1,0 +1,5 @@
+a = input("Enter First Number\n")
+b = input ("Enter Second Number\n")
+a = int(a)
+b = int(b)
+print("Avarage = ",(a+b)/2)

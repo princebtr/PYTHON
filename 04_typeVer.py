@@ -1,0 +1,5 @@
+a = input("Enter Data\n")
+b = input("Enter Int Data\n")
+b = int(b)
+print(type(a))
+print(type(b))

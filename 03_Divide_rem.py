@@ -1,0 +1,5 @@
+a = input("Enter Divident\n")
+b = input("Enter Divisor\n")
+a = int(a)
+b = int(b)
+print("Divident = ", a,"\nDivisor = ", b,"\nQuotient = ", a/b,"\nRemainder = ", a%b)
